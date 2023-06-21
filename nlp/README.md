@@ -1,0 +1,3 @@
+# Dataset from
+
+https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection
